@@ -20,7 +20,7 @@ The mode can be switched at any time from within the application.
 ## ⚡ Execution Options
 
 #### Option 1: Executable File (Recommended)
-1. Download the SBeeVia executable file for [Windows](LINK) (Linux and macOS coming soon).
+1. Download the SBeeVia executable file for [Windows](https://github.com/jodivaso/SBeeVia/releases/download/v0.0.1/SBeeVia.exe) (Linux and macOS coming soon).
 2. Run the executable file.
 
 *Note:* This file is self-contained, so the application takes a few seconds to start since the contents must be unzipped on the fly.
